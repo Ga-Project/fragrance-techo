@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="フレグランス手帖">
+  <rect width="512" height="512" rx="112" fill="#1b1626" />
+  <rect x="150" y="70" width="212" height="150" rx="24" fill="#d9b25a" />
+  <rect x="196" y="196" width="120" height="70" fill="#c8a24a" />
+  <path d="M150 300 Q150 250 196 240 L196 210 L316 210 L316 240 Q362 250 362 300 L362 430 Q362 470 322 470 L190 470 Q150 470 150 430 Z" fill="#2a2340" />
+  <clipPath id="b">
+    <path d="M150 300 Q150 250 196 240 L196 210 L316 210 L316 240 Q362 250 362 300 L362 430 Q362 470 322 470 L190 470 Q150 470 150 430 Z" />
+  </clipPath>
+  <g clip-path="url(#b)">
+    <rect x="140" y="330" width="232" height="150" fill="#6a58b0" />
+    <rect x="140" y="330" width="232" height="10" fill="#d9b25a" />
+  </g>
+  <rect x="236" y="372" width="40" height="60" rx="6" fill="#efe9f6" opacity="0.85" />
+</svg>
